@@ -1,0 +1,2 @@
+# GE-Aerospace-Electrical-Engineering-Digital-Technology-Job-Simulation
+Completed GE Aerospace Electrical Engineering &amp; Digital Technology Job Simulation, gaining hands-on experience in system modeling, data analysis, and digital engineering workflows. Applied engineering principles to real-world aerospace scenarios, strengthening problem-solving, simulation, and technical documentation skills.
