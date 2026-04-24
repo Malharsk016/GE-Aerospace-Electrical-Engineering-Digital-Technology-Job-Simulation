@@ -10,26 +10,26 @@ This simulation provided practical exposure to real-world aerospace engineering 
 
 ⚙️ Key Learning Areas
 
-Electrical system modeling and validation
-Data-driven engineering analysis
-Digital engineering tools and workflows
-Simulation-based problem solving
-Technical documentation aligned with industry standards
+Electrical system modeling and validation,
+Data-driven engineering analysis,
+Digital engineering tools and workflows,
+Simulation-based problem solving,
+Technical documentation aligned with industry standards.
 
 **🧠 What I Did**
 
-Analyzed engineering scenarios inspired by aerospace applications
-Applied simulation techniques to evaluate system performance
-Interpreted technical data to derive actionable insights
-Documented findings in a structured engineering format
+Analyzed engineering scenarios inspired by aerospace applications,
+Applied simulation techniques to evaluate system performance,
+Interpreted technical data to derive actionable insights,
+Documented findings in a structured engineering format.
 
 **💡 Skills Demonstrated**
 
-System-level thinking
-Analytical and critical reasoning
-Engineering simulation proficiency
-Technical communication
-Attention to design and validation processes
+System-level thinking,
+Analytical and critical reasoning,
+Engineering simulation proficiency,
+Technical communication,
+Attention to design and validation processes.
 
 **🎯 Outcome**
 
